@@ -1,7 +1,7 @@
 # Bem-Vindos ao meu perfil
 
 ## Conhecimentos/aonde pretendo chegar
-Estou iniciando na programação usando o javascript com pretensão de criar um site para controle de pacientes em hospitais e clinicas, planejo estudar robotica futuramente e começar a empreender em alguma área de tecnologia
+Estou iniciando na programação usando o javascript com pretensão de criar um site para controle de pacientes em hospitais e clinicas, planejo começar a empreender em alguma área de tecnologia
  
 ## Cursos/bacharelados em progresso
   ### Alura
