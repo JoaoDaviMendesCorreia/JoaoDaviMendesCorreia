@@ -14,7 +14,8 @@ Estou iniciando na programação usando o javascript com pretensão de criar um 
  
  
  ### Bacharelado em Engenharia de Computação Instituto Federal Goiano 
- <img src="https://www.bing.com/images/search?view=detailV2&ccid=wBKXZZYw&id=8B88ED207D329A6AD6C6468815861B1C083F284C&thid=OIP.wBKXZZYwWmK2qzZH8RF-yQAAAA&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f7%2f7c%2fInstituto_Federal_Goiano_-_Marca_Vertical_2015.svg%2f300px-Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c012976596305a62b6ab3647f1117ec9%3frik%3dTCg%252fCBwbhhWIRg%26pid%3dImgRaw%26r%3d0&exph=258&expw=300&q=instituto+federal+goiano&FORM=IRPRST&ck=49B0A006F37E7377B5372CF995F12C53&selectedIndex=0&itb=1" width="140" height="140"/>
+ <img src= "https://github.com/user-attachments/assets/84578e89-569b-4b66-8b6b-9ab546258202" />
+" width="140" height="140"/>
 
  
 
