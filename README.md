@@ -1,28 +1,20 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+## About Me
 
-# Bem-Vindos ao meu perfil
+Atualmente trabalho com automação onde programo em c++ com esp32 e arduino, mas já usei JavaScript para aplicação web
 
-## Conhecimentos/aonde pretendo chegar
-Estou iniciando na programação usando o javascript com pretensão de criar um site para controle de pacientes em hospitais e clinicas, planejo começar a empreender em alguma área de tecnologia
- 
-## Cursos/bacharelados em progresso
-  ### Alura
-  <img src="https://github.com/JoaoDaviMendesCorreia/Joao-Davi-Mendes-Correia/assets/168194655/1a42a1bf-e446-41ee-a2b2-78997a4b5a62" width="100" height="100"/>
- 
- 
- ### Udemy 
- 
- <img src="https://logodownload.org/wp-content/uploads/2019/07/udemy-logo.png" width="110" height="70"/>
- 
- 
- ### Bacharelado em Engenharia de Computação Instituto Federal Goiano 
- <img src= "https://github.com/user-attachments/assets/84578e89-569b-4b66-8b6b-9ab546258202" width="120" height="100"/>
+## My Skills
 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
 
- 
+## GitHub Stats
 
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=JoaoDaviMendesCorreia&theme=dark&show_icons=true&count_private=true">
+
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=JoaoDaviMendesCorreia&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=JoaoDaviMendesCorreia&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
+
+## Connect with me
+
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-correia-mendes-b17846181" target="_blank">João Davi Mendes Correia</a> Email: mendes.joaodavi@gmail.com</p>
