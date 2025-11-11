@@ -14,7 +14,7 @@ Estou iniciando na programação usando o javascript com pretensão de criar um 
  
  
  ### Bacharelado em Engenharia de Computação Instituto Federal Goiano 
- <img src="https://camo.githubusercontent.com/6cd10a4c2c7d4d2a7e11512903f12308310683f2c7188e3629bc66258778184c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f372f37632f496e7374697475746f5f4665646572616c5f476f69616e6f5f2d5f4d617263615f566572746963616c5f323031352e7376672f33303070782d496e7374697475746f5f4665646572616c5f476f69616e6f5f2d5f4d617263615f566572746963616c5f323031352e7376672e706e67" width="140" height="140"/>
+ <img src="https://www.bing.com/images/search?view=detailV2&ccid=wBKXZZYw&id=8B88ED207D329A6AD6C6468815861B1C083F284C&thid=OIP.wBKXZZYwWmK2qzZH8RF-yQAAAA&mediaurl=https%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fthumb%2f7%2f7c%2fInstituto_Federal_Goiano_-_Marca_Vertical_2015.svg%2f300px-Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.c012976596305a62b6ab3647f1117ec9%3frik%3dTCg%252fCBwbhhWIRg%26pid%3dImgRaw%26r%3d0&exph=258&expw=300&q=instituto+federal+goiano&FORM=IRPRST&ck=49B0A006F37E7377B5372CF995F12C53&selectedIndex=0&itb=1" width="140" height="140"/>
 
  
 
