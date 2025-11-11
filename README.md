@@ -1,8 +1,13 @@
-## About Me
+## 🌟 Sobre Mim
 
-Atualmente trabalho com automação onde programo em c++ com esp32 e arduino, mas já usei JavaScript para aplicação web
+Olá! Meu nome é João Davi tenho 19 anos e sou Desenvolvedor C++ com paixão e sou estudante de Engenharia de Computação do Instituto Federal Goiano, trabalho atualmente com automação residencial mas já usei javaScript para aplicações Web
 
-## My Skills
+## 🎓 Educação
+
+* **Instituto Federal Goiano (IF Goiano)** - Engenharia de Computação - 2024 - Presente
+* **Cursos Alura**
+
+## Minhas habilidade
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
@@ -15,6 +20,6 @@ Atualmente trabalho com automação onde programo em c++ com esp32 e arduino, ma
 <img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=JoaoDaviMendesCorreia&theme=dark"></td><td width="50%" align="center">
 <img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=JoaoDaviMendesCorreia&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-## Connect with me
+## Conecte-se comigo
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-correia-mendes-b17846181" target="_blank">João Davi Mendes Correia</a> Email: mendes.joaodavi@gmail.com</p>
