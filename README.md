@@ -14,7 +14,7 @@ Estou iniciando na programação usando o javascript com pretensão de criar um 
  
  
  ### Bacharelado em Engenharia de Computação Instituto Federal Goiano 
- <img src= "https://github.com/user-attachments/assets/84578e89-569b-4b66-8b6b-9ab546258202" width="100" height="100"/>
+ <img src= "https://github.com/user-attachments/assets/84578e89-569b-4b66-8b6b-9ab546258202" width="120" height="100"/>
 
 
  
