@@ -1,7 +1,10 @@
 ## 🌟 Sobre Mim
 
 Olá! Meu nome é João Davi tenho 19 anos e sou Desenvolvedor C++ com paixão e sou estudante de Engenharia de Computação do Instituto Federal Goiano, trabalho atualmente com automação residencial mas já usei javaScript para aplicações Web
-
+## ⚙️ Tecnologias e Ferramentas
+* **Arduino e Esp 32**
+* **Git e GitHub**
+* **Proteus**
 ## 🎓 Educação
 
 * **Instituto Federal Goiano (IF Goiano)** - Engenharia de Computação - 2024 - Presente
