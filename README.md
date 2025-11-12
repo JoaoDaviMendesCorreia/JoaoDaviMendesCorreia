@@ -10,7 +10,7 @@ Olá! Meu nome é João Davi tenho 19 anos e sou Desenvolvedor C++ com paixão e
 * **Instituto Federal Goiano (IF Goiano)** - Engenharia de Computação - 2024 - Presente
 * **Cursos Alura**
 
-## Minhas habilidade
+## Minhas habilidades
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
 <img src="https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white"> 
