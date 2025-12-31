@@ -25,4 +25,4 @@ Olá! Meu nome é João Davi tenho 19 anos e sou Desenvolvedor C++ com paixão e
 
 ## Conecte-se comigo
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/jo%C3%A3o-correia-mendes-b17846181" target="_blank">João Davi Mendes Correia</a> Email: mendes.joaodavi@gmail.com</p>
+<p align="center">🔗 LinkedIn: <a href="www.linkedin.com/in/joão-davi-mendes-7702892b2" target="_blank">João Davi Mendes Correia</a> Email: mendes.joaodavi@gmail.com</p>
